@@ -2221,12 +2221,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/MoneyTrainBsc"
+        href: "https://t.me/"
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/MoneyTrainToken",
+        href: "https://twitter.com/PolyTunes_",
     },
 ];
 var MENU_HEIGHT = 64;
